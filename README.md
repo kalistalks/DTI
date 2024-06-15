@@ -18,3 +18,5 @@ There are 8 copies of the installation to be put in the SUTD pond. An installati
 ### Creative Challenge 
 
 The hardest part of this activity is to figure out how to integrate our pond into the pond non-intrusively. This means it must not have negative consequences to the environment or clash with architecture of the pond. Therefore, we decided to create a lantern with similar roof shape and textures to Jackie Chan Pavilion. Also, our lanterns do not excessively stress out the fishes with our standby mode, which pulsates at around 15% brightness. 
+
+### [Video](https://youtu.be/Dmh8lgVXxfg)
