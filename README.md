@@ -1,11 +1,20 @@
-# Design Thinking and Innovation
+# Design Thinking and Innovation (DTI)
 
 ## Course description
-Introduces concepts of design at a variety of scales and design disciplines. Participants will be exposed to core technologies and design concepts including design principles, processes, modes of thinking and analysis, prototyping skills and social aspects of design. The subject introduces essential skills and mind-set of innovation, entrepreneurship, and methodologies in design including teamwork and workflow organisation, team building and leadership, written and oral communication, graphic and analytical representation, and fabrication techniques. Student teams formulate and complete design projects, setting and achieving milestones under a team of instructors composed of engineers and architects.
+Introduces design concepts at various scales and disciplines. Covers core technologies, principles, processes, prototyping, and social aspects of design. Develops skills in innovation, entrepreneurship, teamwork, communication, and fabrication. Students work on design projects with instructors who are engineers and architects.
 
-The theme for our year was interacting with light. With that in mind, we set off on a project that spanned the whole term. 
+The theme for our year was **interacting with light**. With that in mind, we embarked on a project that spanned the whole term. 
 
-## Project Serenity
+### Part One
+Part one (week 1-2) was dubbed the discover phase where we identify & understood opportunities & needs and collaboratively through co-creation with stakeholders with empathy. With a problem statement in mind, we examined our chosen site, conducted user interviews and analyzed through a MACRO AEIOU (Activities, Environment, Interaction, Objects, Users) point of view. 
+
+### Part Two
+During part two (week 3-4), we defined our problem statement further. The define phase was when we interpreted & reframed needs and map them into activities, functions and representations with mindfulness. This part was done as a group 
+
+### Part Three
+Week 5-7 was spent on part three — the develop phase. We had to ideate & model concepts based on identified opportunities. With the problem statement of **"How might we introduce a more interactive way of feeding/watching the fishes in the pond?"**, my chosen idea was an laser target game where when a user hits the target with a laser gun, the target released fish food. 
+
+## Part Four: Project Serenity
 ![Hero Image](<Hero Image.png>)
 The design draws inspiration from Chinese architecture and there is a purposeful allusion to lanterns. Its strength lies in its aesthetics, the amalgamation of light and water present a breathtaking image at night. The design sets itself apart by allowing the user to see silhouettes of fish as they move through the space. 
 
@@ -20,3 +29,6 @@ There are 8 copies of the installation to be put in the SUTD pond. An installati
 The hardest part of this activity is to figure out how to integrate our pond into the pond non-intrusively. This means it must not have negative consequences to the environment or clash with architecture of the pond. Therefore, we decided to create a lantern with similar roof shape and textures to Jackie Chan Pavilion. Also, our lanterns do not excessively stress out the fishes with our standby mode, which pulsates at around 15% brightness. 
 
 ### [Video](https://youtu.be/Dmh8lgVXxfg)
+
+## Reflection
+I throughly enjoyed this module and it was the highlight of my term 2 in SUTD. I had amazing groupmates and we have great synergy, our team was balanced and had different strengths that we capitalized on. I am grateful for them as together we overcame the challenge of building our prototype whilst juggling our other intensive modules. I am glad that our hardwork has paid off and that I've achieved an A in the module. 
