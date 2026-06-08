@@ -7,10 +7,12 @@ The theme for our year was **interacting with light**. With that in mind, we emb
 
 ### Part One: Discover 
 > Site Analysis and User Studies
+
 Individually, we identified, understood the opportunities and needs through co-creation with stakeholders with empathy. With a problem statement in mind, we examined our chosen site, conducted user interviews and analyzed through a MACRO AEIOU (Activities, Environment, Interaction, Objects, Users) point of view.\n\nThe pond was a key attractor in the space, with users expressing a desire to interact with the fish and spend time near the water. However, there was a lack of seating and interactive elements around the pond, leading to underutilization of the area.
 
 ### Part Two: Define 
 > Group Site Analysis and User Studies
+
 Done as a group, we then defined our problem statement further, synthesizing our findings into a design brief that outlined the key challenges and opportunities for the space. We also developed user personas to represent the different types of users who would interact with the pavilion and pond, including students, faculty, and visitors.
 
 ### Part Three: Develop 
