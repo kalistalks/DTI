@@ -5,24 +5,34 @@ Introduces design concepts at various scales and disciplines. Covers core techno
 
 The theme for our year was **interacting with light**. With that in mind, we embarked on a project that spanned the whole term. 
 
-### Part One
-Part one (week 1-2) was dubbed the discover phase where we identify & understood opportunities & needs and collaboratively through co-creation with stakeholders with empathy. With a problem statement in mind, we examined our chosen site, conducted user interviews and analyzed through a MACRO AEIOU (Activities, Environment, Interaction, Objects, Users) point of view. 
+### Part One: Discover 
+> Site Analysis and User Studies
+Individually, we identified, understood the opportunities and needs through co-creation with stakeholders with empathy. With a problem statement in mind, we examined our chosen site, conducted user interviews and analyzed through a MACRO AEIOU (Activities, Environment, Interaction, Objects, Users) point of view.\n\nThe pond was a key attractor in the space, with users expressing a desire to interact with the fish and spend time near the water. However, there was a lack of seating and interactive elements around the pond, leading to underutilization of the area.
 
-### Part Two
-During part two (week 3-4), we defined our problem statement further. The define phase was when we interpreted & reframed needs and map them into activities, functions and representations with mindfulness. This part was done as a group 
+### Part Two: Define 
+> Group Site Analysis and User Studies
+Done as a group, we then defined our problem statement further, synthesizing our findings into a design brief that outlined the key challenges and opportunities for the space. We also developed user personas to represent the different types of users who would interact with the pavilion and pond, including students, faculty, and visitors.
 
-### Part Three
-Week 5-7 was spent on part three — the develop phase. We had to ideate & model concepts based on identified opportunities. With the problem statement of **"How might we introduce a more interactive way of feeding/watching the fishes in the pond?"**, my chosen idea was an laser target game where when a user hits the target with a laser gun, the target released fish food. 
+### Part Three: Develop 
+In the develop phase, we generated a wide range of ideas and concepts for the pavilion and pond area. We created low-fidelity prototypes to test our ideas and gather feedback from users. Through iterative design and testing, we refined our concepts and developed a final design solution that met the needs of our users. With the problem statement of **"How might we introduce a more interactive way of feeding/watching the fishes in the pond?"**, my chosen idea was an laser target game where when a user hits the target with a laser gun, the target released fish food. 
 
-## Part Four: Project Serenity
+## Project Serenity 
+### Part Four: Deliver
 ![Hero Image](<Hero Image.png>)
-The design draws inspiration from Chinese architecture and there is a purposeful allusion to lanterns. Its strength lies in its aesthetics, the amalgamation of light and water present a breathtaking image at night. The design sets itself apart by allowing the user to see silhouettes of fish as they move through the space. 
+In this project, we designed a public pavilion that serves as a communal space for relaxation and social interaction. The pavilion's design draws inspiration from Chinese architecture, featuring a harmonious blend of traditional elements and modern aesthetics. The structure incorporates a series of interconnected lantern-like forms that create a visually striking and inviting atmosphere with the amalgamation of light and water present a breathtaking image at night. The use of light and water elements enhances the overall ambiance, providing a serene environment for visitors to unwind and connect with nature by allowing the user to see silhouettes of fish as they move through the space. 
 
 ### Project Abstract
-The double diamond framework formed the backdrop of our design process. Studying about user behaviour in the school’s hostel area provided insight into which spaces were underutilised and we were able to provide focused solutions to user needs. We identified that fishes attract people to the pond in the day. Providing a more interactive and aesthetic way of watching the fishes would culminate in a 33% increase in footfall into the space. 
+Serenity is an interactive light pavilion designed to transform an underutilised campus pond into a night-time gathering space. Using projected fish silhouettes and ambient lighting, the design drew a 33% increase in footfall to the area. The theme for our cohort was light — our team interpreted this through the lens of water, shadow, and movement.
 
-### Interaction
-There are 8 copies of the installation to be put in the SUTD pond. An installation would brighten when the user walks closer to it. The fishes are able to swim up into the tank. When they do, their silhouettes would be cast on the screens of the installation. The silhouettes are dynamic in the sense that the movements of fishes are random. The user is presented with a different image every moment. 
+### The Insight
+Users told us the pond was already a natural attractor during the day — people paused to watch the fish, sat nearby, lingered. But at night, that pull disappeared entirely. The fish were invisible, the area was dim, and there was nothing to draw someone off the path.\n\nThe design question became: how do you give people a reason to slow down after dark?
+
+### The Concept
+A series of lanterns distributed along the boardwalk, each one independently aware of its surroundings. At rest, they pulse slowly, ambient, alive. Walk toward one and it responds: the closer you get, the brighter it glows.
+
+But the light isn't empty. Beneath each lantern, a tank of water sits between the LED strip and a translucent screen. As fish swim through, their silhouettes are cast onto the surface — shifting, unpredictable, never the same twice. The interaction has two layers: your presence controls the light, but the fish control what that light reveals.
+
+The result is a space that rewards slowing down. The longer you stay, the more you see.
 
 ### Creative Challenge 
 
