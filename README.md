@@ -27,7 +27,7 @@ In this project, we designed a public pavilion that serves as a communal space f
 Serenity is an interactive light pavilion designed to transform an underutilised campus pond into a night-time gathering space. Using projected fish silhouettes and ambient lighting, the design drew a 33% increase in footfall to the area. The theme for our cohort was light — our team interpreted this through the lens of water, shadow, and movement.
 
 ### The Insight
-Users told us the pond was already a natural attractor during the day — people paused to watch the fish, sat nearby, lingered. But at night, that pull disappeared entirely. The fish were invisible, the area was dim, and there was nothing to draw someone off the path.\n\nThe design question became: how do you give people a reason to slow down after dark?
+Users told us the pond was already a natural attractor during the day — people paused to watch the fish, sat nearby, lingered. But at night, that pull disappeared entirely. The fish were invisible, the area was dim, and there was nothing to draw someone off the path. The design question became: how do you give people a reason to slow down after dark?
 
 ### The Concept
 A series of lanterns distributed along the boardwalk, each one independently aware of its surroundings. At rest, they pulse slowly, ambient, alive. Walk toward one and it responds: the closer you get, the brighter it glows.
